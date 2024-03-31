@@ -1,0 +1,8 @@
+
+"9781234567890" "The Great Gatsby" "F. Scott Fitzgerald" "Classic novel set in the Jazz Age" "3.50"
+"9780451524935" "To Kill a Mockingbird" "Harper Lee" "Exploration of racial injustice in the American South" "4.50"
+"9780671027032" "1984" "George Orwell" "Dystopian novel depicting a totalitarian regime" "5.00"
+"9780061120084" "The Catcher in the Rye" "J.D. Salinger" "Coming-of-age novel with a teenage protagonist" "2.50"
+"9780743273565" "The Hobbit" "J.R.R. Tolkien" "Fantasy novel about the journey of Bilbo Baggins" "4.00"
+
+
